@@ -4,7 +4,7 @@
   float porcentajeHom();
   float porcentajeMuj();
   int hom, muj, total;
-
+//Idem ejercicio anterior.
   float porcentajeHom(int cantH, int t)
   {
       int porcenHom;

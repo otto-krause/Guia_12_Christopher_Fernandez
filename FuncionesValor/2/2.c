@@ -3,7 +3,7 @@
   int b=0, h=0;
   int perimetro();
   int area();
-
+//Se deben utilizar parametros.
   int perimetro()
   {
       int peri;

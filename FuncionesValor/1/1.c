@@ -23,12 +23,12 @@
   int main()
   {
       int a, b;
-      a = num1();
-      b = num2();
+      //a = num1();
+      //b = num2();
       system("cls");
       printf("Ingreso los numeros:\n");
-      printf("%d\n", a);
-      printf("%d", b);
+      printf("%d\n", num1());//Se úede utilizar la llamada en el print si no se necesita para calcular.
+      printf("%d", num2());
       return 0;
   }
 
